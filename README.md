@@ -1,2 +1,2 @@
 # TemplateMethodJava
-Simple example of how to use the template method pattern in java, using both composition, and inheritance. 
+Simple example of how to use the template method pattern in java, using both composition, and inheritance. Read more here at my blog [http://mitchsteed.com](http://mitchsteed.com). This specific post can be found here [Template Method Pattern in Java](http://www.mitchsteed.com/template-method-pattern-java/).
